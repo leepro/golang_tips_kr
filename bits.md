@@ -6,7 +6,7 @@
   * unsafe.Sizeof(i) --> 8 bytes
   * strconv.IntSize --> 64 bits
 
-* Python의 bin()함수 처럼 정수를 2진수 문자열 표현으로 보고 싶은데?
+* Python의 bin()함수 처럼 정수를 2진수 문자열 표현으로 보고 싶은데요?
   * strconv.FormatInt(value, 2)
   * fmt.Printf("%b", value)
 
