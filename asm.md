@@ -8,5 +8,7 @@
   * GOOS=linux GOARCH=amd64 go tool compile -S source.go
 
 * Go가 지원하는 OS 및 아키텍쳐를 알고 싶다면?
+  * https://golang.org/doc/asm#introduction
   * https://github.com/golang/go/blob/master/src/go/build/syslist.go
-  * go tool dist list (Go 1.7부터 지원)
+  * 명령어 (Go 1.7부터 지원)
+    * go tool dist list 
