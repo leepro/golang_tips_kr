@@ -12,3 +12,7 @@
   * https://github.com/golang/go/blob/master/src/go/build/syslist.go
   * 명령어 (Go 1.7부터 지원)
     * go tool dist list 
+
+---
+* Author: DongWoo Lee
+* Email: leepro+golangtips@gmail.com
