@@ -5,3 +5,8 @@
   * reflect.TypeOf(i).Size() --> 8 bytes
   * unsafe.Sizeof(i) --> 8 bytes
   * strconv.IntSize --> 64 bits
+
+---
+
+* Author: DongWoo Lee
+* Email: leepro+golangtips@gmail.com
